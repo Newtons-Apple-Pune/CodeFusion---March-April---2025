@@ -1,0 +1,33 @@
+.search-field
+{
+    height: 40px;
+    width: 550px;
+    outline: none;  
+    padding-left: 40px;
+    background: linear-gradient(35deg, #494949, #313131);
+    color:white;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+    position: relative;
+}
+.search-container 
+{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+form 
+{
+    position: relative;
+}
+form svg 
+{
+    position: absolute;
+    color:white;
+    top: 50%;
+    left: 10px;
+    font-size: 20px;
+    transform: translate(0, -50%);
+    z-index: 10;
+}

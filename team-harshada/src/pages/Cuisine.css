@@ -1,0 +1,18 @@
+.cuisine-container 
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: 10px;
+    margin-top: 40px;
+}
+.cuisine-skeleton
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    gap: 10px;
+    margin-top: 40px;
+}
+.cuisine-skltn
+{
+    border-radius: 20px;
+}

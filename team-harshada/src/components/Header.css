@@ -1,0 +1,31 @@
+.header-container 
+{
+    margin: -50px -100px 30px;
+    padding:10px 20px;
+    background-color: #202020;
+    color:white;
+    position: sticky;
+    top:0;
+    z-index: 999;
+    box-shadow: 0px 0px 3px 1px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-container h1 
+{
+    font-family: 'Satisfy';
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color:white;
+}
+.header-container a 
+{
+    text-decoration: none;
+}
+.user-img
+{
+    font-size: 30px;
+    cursor: pointer;
+}
