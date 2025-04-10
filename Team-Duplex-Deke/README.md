@@ -38,3 +38,8 @@ CLOUDINARY_API_SECRET=YOUR_API_SECRET
 STRIPE_SECRET_KEY=YOUR_STRIPE_SECRET_KEY
 CLIENT_URL=http://localhost:5173
 NODE_ENV=development
+
+Submitted by Team-Duplex-Deke
+Team members
+Trupti Gunjal 14
+Omika Madaye 26
