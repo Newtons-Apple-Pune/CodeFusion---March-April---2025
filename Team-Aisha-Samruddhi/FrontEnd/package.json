@@ -1,0 +1,81 @@
+{
+  "name": "rahber",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.3.1",
+    "@cometchat-pro/chat": "^3.0.13",
+    "@cometchat/chat-sdk-javascript": "^4.0.4",
+    "@cometchat/chat-sdk-react-native": "^4.0.6",
+    "@cometchat/chat-uikit-react": "^4.3.4",
+    "@cometchat/uikit-elements": "^4.3.4",
+    "@cometchat/uikit-resources": "^4.3.3",
+    "@cometchat/uikit-shared": "^4.3.4",
+    "@devexpress/dx-react-scheduler": "^4.0.8",
+    "@devexpress/dx-react-scheduler-material-ui": "^4.0.8",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.6",
+    "@mui/material": "^5.14.6",
+    "@mui/x-date-pickers": "^5.0.12",
+    "@syncfusion/ej2-base": "^24.2.8",
+    "@syncfusion/ej2-dropdowns": "^24.2.9",
+    "@syncfusion/ej2-react-buttons": "^24.2.7",
+    "@syncfusion/ej2-react-schedule": "^24.2.8",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/react-big-calendar": "^1.8.9",
+    "@zegocloud/zego-uikit-prebuilt": "^2.0.1",
+    "@zegocloud/zimkit-react": "^1.2.1",
+    "axios": "^1.6.7",
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "downloadjs": "^1.4.7",
+    "mdb-react-ui-kit": "^7.2.0",
+    "moment": "^2.30.1",
+    "react": "^18.2.0",
+    "react-big-calendar": "^1.8.2",
+    "react-bootstrap": "^2.10.0",
+    "react-calendar": "^4.8.0",
+    "react-chat-engine": "^1.11.28",
+    "react-colorful": "^5.6.1",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^5.0.1",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "both": "concurrently \"npm run start\" \"npx nodemon BackEnd/index.js\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "html-loader": "^5.0.0",
+    "raw-loader": "^4.0.2"
+  }
+}

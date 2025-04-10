@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f8f8f8;
+}
+.about{
+  margin-top: 450px;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style-type: none;
+}
+p {
+  line-height: 30px;
+  font-size: 18px;
+}
+.container {
+  max-width: 85%;
+  margin: auto;
+}
+.flexSB {
+  display: flex;
+  justify-content: space-between;
+}
+.aboutHome {
+    height: auto;
+  }
+  .aboutHome #heading {
+    text-align: left;
+    padding: 0;
+  }
+  .aboutHome .left img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .aboutHome .right {
+    padding: 200px 10px;
+  }
+  .aboutHome .items {
+    margin-top: 50px;
+  }
+  .aboutHome .item {
+    background-color: #fff;
+    margin-top: 30px;
+    padding: 20px;
+    transition: 0.5s;
+  }
+  .aboutHome .img {
+    width: 200px;
+    margin-top: 50px;
+  }
+  .aboutHome img {
+    width: 90px;
+    height: 90px;
+  }
+  .aboutHome .item h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-left: 80px;
+  }
+  .aboutHome .item p {
+    color: #999999;
+    margin-left: 30px;
+  }
+  .aboutHome .item:hover {
+    background-color: #1eb2a6;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+  }
+  .aboutHome .item:hover p {
+    color: #fff;
+  }
+  /*----------awrapper------------*/
+  .awrapper {
+    background-image: url("../../../public/images/awrapper.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 30vh;
+    color: #fff;
+  }
+  .awrapper .box {
+    padding: 70px 0;
+  }
+  .awrapper img {
+    margin-right: 30px;
+  }
+  .awrapper h1 {
+    font-size: 50px;
+  }
+  .awrapper h3 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  /*----------awrapper------------*/
+  @media screen and (max-width: 768px) {
+    .aboutHome .container {
+      flex-direction: column-reverse;
+    }
+    .aboutHome .row {
+      width: 100%;
+    }
+    .awrapper {
+      height: 50vh;
+    }
+  }
+

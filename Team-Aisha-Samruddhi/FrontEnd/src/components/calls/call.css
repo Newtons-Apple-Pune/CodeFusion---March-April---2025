@@ -1,0 +1,34 @@
+.callsbc{
+    display: flex;
+    width: 100%;
+    flex:1;
+    height: 100%;
+    overflow-y: auto;
+}
+.callsab{
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+.callscd{
+    display: flex;
+    flex:1;
+    z-index: 5;
+    left: 0;
+    margin-top: 51px;
+    height: calc(100%-51px);
+}
+.calls-leftfold{
+    display: flex;
+    flex: 2;
+    z-index: 10;
+    margin-top: 51px;
+    height: calc(100%-51px);
+}
+.calls-righfold{
+    display: flex;
+    flex:11 ;
+    z-index: 50;
+    margin-top: 51px;
+    height: calc(100%-51px);
+}

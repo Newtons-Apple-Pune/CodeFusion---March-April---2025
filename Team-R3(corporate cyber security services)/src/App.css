@@ -1,0 +1,70 @@
+/* Three-dot menu styling */
+.menu-button {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.menu-dropdown {
+  position: fixed;
+  top: 60px;
+  left: 20px;
+  background-color: rgba(51, 51, 51, 0.95);
+  border-radius: 10px;
+  padding: 10px 20px;
+  display: none;
+  flex-direction: column;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+  z-index: 1000;
+}
+
+.menu-dropdown a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 10px 0;
+  transition: 0.3s ease;
+}
+
+.menu-dropdown a:hover {
+  color: #00d9ff;
+  transform: translateX(5px);
+}
+
+/* Show the dropdown when active */
+.menu-active {
+  display: flex;
+}
+
+/* Title styling */
+.title {
+  text-align: center;
+  margin-top: 100px; /* Add margin to ensure it is below the fixed navbar */
+  font-size: 3rem;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-image: url('C:/Users/vgara/corporate-cyber-security-services/public/images/images.jpg'); /* Correct path */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: rgb(226, 212, 212);
+  margin: 0;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

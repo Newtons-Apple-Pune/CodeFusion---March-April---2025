@@ -1,0 +1,42 @@
+.menu-button {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    font-size: 24px;
+    background: #333;
+    color: white;
+    border: none;
+    padding: 10px;
+    z-index: 1001;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .menu-dropdown {
+    position: fixed;
+    top: 60px;
+    left: 20px;
+    background: rgba(0, 0, 0, 0.95);
+    color: white;
+    padding: 15px;
+    display: none;
+    flex-direction: column;
+    border-radius: 5px;
+    z-index: 1000;
+  }
+  
+  .menu-dropdown a {
+    color: white;
+    padding: 8px 0;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .menu-dropdown a:hover {
+    color: #00d9ff;
+  }
+  
+  .menu-active {
+    display: flex;
+  }
+  

@@ -1,0 +1,67 @@
+.Rfbody{
+    width: 100%;
+    padding: 24px;
+    background-color: #f5f5f5;
+    z-index: -2;
+
+
+}
+.RfHlabel{
+    padding: 12px 0px;
+    border-bottom:2px solid lightgray;
+
+
+}
+.Rfoptions{
+    display: flex;
+    justify-content: space-between;
+    margin: 16px 0px;
+
+}
+.Rfcontactsearch{
+    background-color: white;
+    width: fit-content;
+    display: flex;
+    padding: 6px;
+    align-items: center;
+
+}
+.Rfcontactsearch input{
+    border: none;
+    outline: none;
+    font-size: 14px;
+
+
+}
+.RfCicon{
+    color: #d0d0d0;
+
+
+}
+.Rfaddbutton{
+    background-color: #6264a7;
+    width: fit-content;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 4px;
+
+}
+.Rfaddicon{
+    margin-right: 6px;
+    font-size: 14px;
+
+}
+.RfAlabel{
+    font-size: 14px;
+    font-weight: 500;
+
+}
+.Rfcontacts{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: scroll;
+    justify-content: flex-start;
+}

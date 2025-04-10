@@ -1,0 +1,42 @@
+CREATE DATABASE IF NOT EXISTS cyber_security_db;
+USE cyber_security_db;
+
+CREATE TABLE IF NOT EXISTS users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  email VARCHAR(255) NOT NULL UNIQUE,
+  password VARCHAR(255) NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS security_logs (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT,
+  action VARCHAR(255) NOT NULL,
+  status VARCHAR(50) NOT NULL,
+  details TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(id)
+);
+
+CREATE TABLE IF NOT EXISTS security_alerts (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  user_id INT,
+  type VARCHAR(100) NOT NULL,
+  severity ENUM('low', 'medium', 'high', 'critical') NOT NULL,
+  message TEXT NOT NULL,
+  status ENUM('active', 'resolved', 'ignored') DEFAULT 'active',
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (user_id) REFERENCES users(id)
+<<<<<<< HEAD
+); 
+
+CREATE TABLE IF NOT EXISTS threats (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  description TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+=======
+); 
+>>>>>>> da4c3ff5ff49d019bf8fc4947019a1719ce4ed32

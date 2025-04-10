@@ -1,0 +1,66 @@
+.contact-title {
+    font-size: 2.6rem;
+    color: #200652;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px rgba(0, 77, 128, 0.1);
+    text-decoration: underline; /* 👈 This underlines the text */
+    text-underline-position: under; /* Optional: makes the line cleaner */
+  }
+    
+  .contact-title {
+    font-size: 2.6rem;
+    color: #18043a;
+    font-weight: 600;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px rgba(0, 77, 128, 0.1);
+    
+
+  }
+  
+  .contact-subtitle {
+    font-size: 2.8rem;
+    color: #06010a;
+    margin-bottom: 50px;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .contact-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .contact-card {
+    background: #ffffff;
+    border: 1px solid #010a0f;
+    border-radius: 16px;
+    padding: 30px;
+    width: 260px;
+    box-shadow: 0 6px 18px rgba(0, 77, 128, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .contact-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 30px rgba(0, 77, 128, 0.15);
+  }
+  
+  .contact-card h3 {
+    font-size: 1.4rem;
+    color: #006699;
+    margin-bottom: 12px;
+  }
+  
+  .contact-card p {
+    color: #444;
+    font-size: 1rem;
+  }
+  .discord-button-wrapper a {
+   
+    text-size-adjust: 100;
+  }
+  

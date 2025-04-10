@@ -1,0 +1,36 @@
+.ahead h1 {
+    margin-bottom: 4px;
+}
+
+.ahead span {
+    margin-top: 2px;
+}
+
+.social i {
+    margin-right: 5px;
+}
+
+.social .icon {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    color: #1eb2a6;
+    transition: 0.5s;
+}
+
+.social .icon:hover {
+    cursor: pointer;
+    background-color: #1eb2a6;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}

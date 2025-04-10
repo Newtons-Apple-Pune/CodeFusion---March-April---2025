@@ -1,0 +1,2706 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@media (min-width:350px) and (max-width:374px){
+    .textardes{
+        min-width: 88vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 94vw !important;
+        max-width: 94vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    .flxspread{
+        --bs-gutter-x: 1.2rem !important;
+    
+    }
+    
+    .prdimgbox{
+        display: block;
+        width: 10vw;
+        height: 10vw;
+        background-color: red;
+    }
+
+    .pwidth{
+        padding: 2rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+
+    .cashdel{
+        min-width: 17vw;
+        max-width: 17vw;
+        max-height: 14vw;
+        min-height: 14vw;
+    
+    }
+
+
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 39vw !important;
+        overflow: hidden !important;
+    }
+    
+    .regformwidth{
+        width: 70vw !important;
+    }
+    
+.margintoptohold{
+    margin-top: 41rem !important;
+}
+
+    
+                                
+.carselevent{
+    width: 90vw;
+    height: 75vw;
+   
+    
+    margin-top: 5vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 75vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 75vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 1.4rem;
+    line-height: 0.75rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 46vh;
+    overflow: auto;
+
+}
+
+}
+
+@media (min-width:375px) and (max-width:389px){
+    .textardes{
+        min-width: 88vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 94vw !important;
+        max-width: 94vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 2rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 17vw;
+        max-width: 17vw;
+        max-height: 14vw;
+        min-height: 14vw;
+    
+    }
+
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 39vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 70vw !important;
+    }
+    .margintoptohold{
+        margin-top: 41rem !important;
+    }
+
+        
+                                
+.carselevent{
+    width: 90vw;
+    height: 65vw;
+   
+    
+    margin-top: 5vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 65vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 65vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 1.4rem;
+    line-height: 0.75rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 46vh;
+    overflow: auto;
+
+}
+
+}
+
+@media (min-width:390px) and (max-width:411px){
+    .textardes{
+        min-width: 88vw;
+        resize: none;
+    }
+    
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 94vw !important;
+        max-width: 94vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 2rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 17vw;
+        max-width: 17vw;
+        max-height: 14vw;
+        min-height: 14vw;
+    
+    }
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 39vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 70vw !important;
+    }
+    .margintoptohold{
+        margin-top: 41rem !important;
+    }
+
+    
+                                
+.carselevent{
+    width: 90vw;
+    height: 65vw;
+   
+    
+    margin-top: 5vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 65vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 65vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 1.4rem;
+    line-height: 0.75rem;
+}
+
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 40vh;
+    overflow: auto;
+
+}
+}
+
+@media (min-width:412px) and (max-width:539px){
+    .textardes{
+        min-width: 84vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 90vw !important;
+        max-width: 90vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 0.8rem;
+        padding-right: 0.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 2rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 17vw;
+        max-width: 17vw;
+        max-height: 14vw;
+        min-height: 14vw;
+    
+    }
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 41vw !important;
+        overflow: hidden !important;
+    }
+    .regformwidth{
+        width: 70vw !important;
+    }
+    .margintoptohold{
+        margin-top: 41rem !important;
+    }
+
+                                
+.carselevent{
+    width: 90vw;
+    height: 60vw;
+   
+    
+    margin-top: 5vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 60vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 65vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 1.4rem;
+    line-height: 0.75rem;
+}
+
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 36vh;
+    overflow: auto;
+
+}
+}
+
+@media (min-width:540px) and (max-width:767px){
+    .textardes{
+        min-width: 76vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 74vw !important;
+        max-width: 74vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 1.8rem;
+        padding-right: 1.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 12vw;
+        max-width: 12vw;
+        max-height: 8vw;
+        min-height: 8vw;
+    
+    }
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 27vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 70vw !important;
+    }
+    .margintoptohold{
+        margin-top: 41rem !important;
+    }
+
+                            
+.carselevent{
+    width: 80vw;
+    height: 45vw;
+   
+    
+    margin-top: 5vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 45vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 45vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+    line-height: 0.75rem;
+}
+
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 45vh;
+    overflow: auto;
+
+}
+
+}
+
+@media (min-width:768px) and (max-width:819px){
+    .textardes{
+        min-width: 52vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 52vw !important;
+        max-width: 52vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 1.8rem;
+        padding-right: 1.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 17vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 80vw !important;
+    }
+    .mincardbd{
+        min-width: 28vw;
+    }
+
+                        
+.carselevent{
+    width: 80vw;
+    height: 45vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 45vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 45vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 7rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 45vh;
+    overflow: auto;
+
+}
+
+}
+
+@media (min-width:820px) and (max-width:911px){
+    .textardes{
+        min-width: 49vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 49vw !important;
+        max-width: 49vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 1.8rem;
+        padding-right: 1.8rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 17vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 80vw !important;
+    }
+    .mincardbd{
+        min-width: 26vw;
+    }
+
+                    
+.carselevent{
+    width: 80vw;
+    height: 45vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 45vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 45vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 8rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 40vh;
+    overflow: auto;
+
+}
+
+}
+
+@media (min-width:912px) and (max-width:1023px){
+    .textardes{
+        min-width: 40vw;
+        resize: none;
+    }
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 44vw !important;
+        max-width: 44vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 1.8rem;
+        padding-right: 1.8rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 10vw;
+    height: 10vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 80vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 26vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 80vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 18vw !important;
+        overflow: hidden !important;
+    }
+    .regformwidth{
+        width: 80vw !important;
+    }
+    .mincardbd{
+        min-width: 26vw;
+    }
+
+                
+.carselevent{
+    width: 80vw;
+    height: 45vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 45vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 45vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 9.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 40vh;
+    overflow: auto;
+
+}
+
+
+}
+
+@media (min-width:1024px) and (max-width:1279px){
+    .textardes{
+        min-width: 40vw;
+        resize: none;
+    }
+
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 39vw !important;
+        max-width: 39vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 50vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 30vh !important;
+    }   
+    .imgfill{
+        height: 100%;
+        min-width: 50vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 13vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 45vw !important;
+    }
+    .mincardbd{
+        min-width: 22vw;
+    }
+
+            
+.carselevent{
+    width: 80vw;
+    height: 30vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 30vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 30vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 4.5rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 65vh;
+    overflow: auto;
+
+}
+}
+
+@media (min-width:1280px) and (max-width:1365px){
+    .textardes{
+        min-width: 33vw;
+        resize: none;
+    }
+
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 32vw !important;
+        max-width: 32vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 50vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 36vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 50vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 10vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 45vw !important;
+    }
+    .mincardbd{
+        min-width: 18vw;
+    }
+
+        
+.carselevent{
+    width: 80vw;
+    height: 30vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 30vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 30vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 8rem;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 80vh;
+    overflow: auto;
+
+}
+
+
+}
+
+@media (min-width:1366px) and (max-width:1919px){
+    .textardes{
+        min-width: 30vw;
+        resize: none;
+    }
+    
+    
+.boxdes3{
+    background-color: #00000059;
+    border-radius: 0.4rem;
+    border: 0.1rem solid cyan;
+    min-width: 30vw !important;
+    max-width: 30vw !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 0.65rem;
+}
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 50vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 36vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 50vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 10vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 45vw !important;
+    }
+
+    .mincardbd{
+        min-width: 16vw;
+    }
+
+    
+.carselevent{
+    width: 80vw;
+    height: 30vw;
+   
+    
+    margin-top: 3vw;
+}
+.carousel-inner {
+    border: 0.15rem solid cyan;
+    position: relative;
+    width: 100%;
+    max-height: 30vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 30vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+.mainhome{
+    background-color: #1b1b1b;
+    min-height: 90vh;
+    overflow: auto;
+
+}
+
+
+}
+
+@media (min-width:1920px) and (max-width:2559px){
+    .textardes{
+        min-width: 24vw;
+        resize: none;
+    }
+    
+    
+.boxdes3{
+    background-color: #00000059;
+    border-radius: 0.4rem;
+    border: 0.1rem solid cyan;
+    min-width: 23vw !important;
+    max-width: 23vw !important;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-size: 0.65rem;
+}
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 50vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 36vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 50vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 10vw !important;
+        overflow: hidden !important;
+    }
+
+    .regformwidth{
+        width: 45vw !important;
+    }
+    
+    .mainhome{
+        background-color: #1b1b1b;
+        min-height: 85vh;
+        overflow: auto;
+    
+    }
+.carselevent{
+    width: 80vw;
+    height: 30vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 30vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 30vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+
+
+}
+
+@media (min-width:3840px) and (max-width:8000px){
+    .textardes{
+        min-width: 24vw;
+        resize: none;
+    }
+    
+    .boxdes3{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        min-width: 12vw !important;
+        max-width: 12vw !important;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        font-size: 0.65rem;
+    }
+    .boxdes2{
+        background-color: #00000059;
+        border-radius: 0.4rem;
+        border: 0.1rem solid cyan;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        font-size: 0.65rem;
+    }
+    
+.prdimgbox{
+    display: block;
+    width: 5vw;
+    height: 5vw;
+    background-color: red;
+}
+
+    .pwidth{
+        padding: 3rem !important;
+        border: 0.045rem solid cyan;
+        max-width: 50vw;
+        word-break: break-all;
+    }
+    .cart{
+        max-height : 36vh !important;
+    }  
+    .imgfill{
+        height: 100%;
+        min-width: 50vw;
+        object-fit: fill;
+        background-position: center;
+    }
+    .cashdel{
+        min-width: 6vw;
+        max-width: 6vw;
+        max-height: 5vw;
+        min-height: 5vw;
+    
+    }
+    
+.cardbgdisp{
+    max-width: 40vw;
+    margin-left: 1rem;
+}
+    .carousel-innerval {
+        position: relative !important;
+        width: 100% !important;
+        max-height: 10vw !important;
+        overflow: hidden !important;
+    }
+    .regformwidth{
+        width: 45vw !important;
+    }
+
+    .mainhome{
+        background-color: #1b1b1b;
+        min-height: 75vh;
+        overflow: auto;
+    
+    }
+        
+.carselevent{
+    width: 80vw;
+    height: 30vw;
+   
+    
+    margin-top: 3vw;
+}
+.carsbord{
+    border: 0.15rem solid cyan;
+}
+.carousel-inner {
+    
+    position: relative;
+    width: 100%;
+    max-height: 30vw !important;
+    overflow: hidden;
+}
+
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    height: 30vw;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: transform .6s ease-in-out;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 7.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.carshead{
+    font-size: 2rem;
+}
+
+
+}
+
+
+.disp{
+    background-color: aqua !important;
+    width: 100vw !important;
+    height: 100vh !important;
+}
+
+.modal-backdrop.show {
+    opacity: var(--bs-backdrop-opacity);
+    z-index: -200;
+}
+
+.offcanvas-body {
+    flex-grow: 1;
+    padding: var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x);
+    overflow-y: auto;
+    background-color: #000000;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    
+}
+.offcanvas-body::-webkit-scrollbar {
+    display: none;
+  }
+
+.offcanvas-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x);
+    background-color: #000000;
+}
+
+.offcanvas-header .btn-close {
+    padding: calc(var(--bs-offcanvas-padding-y) * .5) calc(var(--bs-offcanvas-padding-x) * .5);
+    margin-top: calc(-.5 * var(--bs-offcanvas-padding-y));
+    margin-right: calc(-.5 * var(--bs-offcanvas-padding-x));
+    margin-bottom: calc(-.5 * var(--bs-offcanvas-padding-y));
+    /* color: red !important; */
+    background-color: cyan;
+}
+
+.middarkbg{
+    background-color: #000000;
+
+}
+
+.offcanvas-title {
+    margin-bottom: 0;
+    line-height: var(--bs-offcanvas-title-line-height);
+    color: cyan;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: cyan;
+}
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    /* color: var(--bs-nav-link-color); */
+    text-decoration: none;
+    background: 0 0;
+    color: cyan;
+    border: 0;
+    transition: all .40s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: cyan !important;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+
+.cyanfont{
+    color: cyan;
+}
+
+.navbar-toggler {
+    padding: var(--bs-navbar-toggler-padding-y) var(--bs-navbar-toggler-padding-x);
+    font-size: var(--bs-navbar-toggler-font-size);
+    line-height: 1;
+    color: cyan;
+    background-color: transparent;
+    background-color: transparent;
+    border: none !important;
+    border-radius: var(--bs-navbar-toggler-border-radius);
+    transition: var(--bs-navbar-toggler-transition);
+    text-shadow: 0 0 100px cyan;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: none !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.btn-outline-info:hover{
+    --bs-btn-color: #0dcaf0;
+    --bs-btn-border-color: #0dcaf0;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #0dcaf0;
+    --bs-btn-hover-border-color: #0dcaf0;
+    --bs-btn-focus-shadow-rgb: 13,202,240;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #0dcaf0;
+    --bs-btn-active-border-color: #0dcaf0;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #0dcaf0;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #0dcaf0;
+    --bs-gradient: none;
+    box-shadow: 0px 0px 14px 4px cyan;
+}
+
+.navbar-nav .dropdown-menu {
+    position: static;
+    color: cyan;
+    background-color: #000000;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
+    clear: both;
+    font-weight: 400;
+    color: cyan;
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    border-radius: var(--bs-dropdown-item-border-radius,0);
+    
+}
+
+.dropdown-item:hover {
+    display: block;
+    width: 100%;
+    padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
+    clear: both;
+    font-weight: 400;
+    color: cyan;
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    border-radius: var(--bs-dropdown-item-border-radius,0);
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+    
+}
+
+.txtshad{
+    color: cyan;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+
+}
+
+.txtshad:hover{
+    color: cyan;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+
+.txtshad:visited{
+    color: cyan;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+
+.borderstylenav{
+    border-bottom-style: solid;
+    border-bottom-color: cyan;
+    border-top-style: solid;
+    border-top-color: cyan;
+}
+
+.login{
+    
+    height: 100vh !important;
+    background-color: #1b1b1b;
+}
+
+.colsdes{
+    color: white !important;
+}
+
+.loginLink{
+    text-underline-offset: 0.3rem;
+    text-decoration-style: dotted !important;
+    color: cyan;
+}
+
+.logintxt{
+    color: cyan;
+}
+
+.smaline{
+    font-family: 'Rancho', cursive !important;
+    font-size: 0.76rem;
+}
+
+.alertshadw{
+    color: cyan;
+    animation: shadonoff 2s linear infinite;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 40px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+@keyframes shadonoff{
+    0%{
+        text-shadow: 0 0 10px #00FFFF;
+    }
+    13%{
+        text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
+    }
+    25%{
+        text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;
+    }
+    50%{
+        text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF;
+    }
+    75%{
+        text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;
+    }
+    88%{
+        text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF;
+    }
+    100%{
+        text-shadow: 0 0 10px #00FFFF;
+    }
+}
+
+.custom-tooltip {
+    --bs-tooltip-bg: black;
+    --bs-tooltip-color: cyan;
+  }
+  
+
+  .sizepanelnav{
+    display: flex;
+    
+    width: 85% !important;
+    height: 135% !important;
+
+  }  
+
+  .navuserimg{
+    display: block;
+    
+    width: 13% !important;
+    height: 86% !important;
+    border-radius: 1.1rem;
+    border-width: 0.13rem;
+    border-style: solid;
+    border-color: cyan;
+    animation : navprofpic 2s linear infinite;
+  }
+  @keyframes navprofpic {
+    0%{
+        box-shadow: none;
+    }
+    50%{
+        box-shadow: 0 0 20px 3px cyan;
+    }
+    100%{
+        box-shadow: none;
+    }
+  }
+ 
+  .imgprop{
+    width: 100% ;
+    height : 100%;
+    object-fit: cover;
+  }
+
+
+  .addEmp{
+    display : flex;
+    justify-content: center;
+    
+    height: 100vh;
+    background-color: #1b1b1b;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .addEmp::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+  .editEmp{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh; /* Use min-height instead of height */
+    background-color: #1b1b1b;
+    overflow-y: auto; /* Use overflow-y: auto instead of overflow: scroll */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+    
+
+  }
+
+  .editEmp2{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh; /* Use min-height instead of height */
+    background-color: #1b1b1b;
+    overflow-y: auto; /* Use overflow-y: auto instead of overflow: scroll */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+   
+   
+
+  }
+
+  .editEmp::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+  body{
+    background-color: #1b1b1b;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
+
+  .cardImg2{
+    min-height: 14vh !important;
+    max-height: 14vh !important;
+    object-fit: cover;
+ 
+
+  }
+
+  .cardanim{
+    transform: scale(1);
+    transition: all 0.7s linear;
+  }
+  .cardanim:hover{
+    transform: scale(1.13);
+  }
+
+
+  .desbtn {
+    --bs-btn-padding-x: 0.5rem;
+    --bs-btn-padding-y: 0.05rem;
+    --bs-btn-font-family: ;
+    --bs-btn-font-size: 1rem;
+    --bs-btn-font-weight: 400;
+    --bs-btn-line-height: 1.5;
+    --bs-btn-color: var(--bs-body-color);
+    --bs-btn-bg: cyan;
+    --bs-btn-border-width: var(--bs-border-width);
+    --bs-btn-border-color: transparent;
+    --bs-btn-border-radius: var(--bs-border-radius);
+    --bs-btn-hover-border-color: transparent;
+    --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15),0 1px 1px rgba(0, 0, 0, 0.075);
+    --bs-btn-disabled-opacity: 0.65;
+    --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);
+    display: inline-block;
+    padding: var(--bs-btn-padding-y) var(--bs-btn-padding-x);
+    font-family: var(--bs-btn-font-family);
+    font-size: small;
+    font-weight: bold;
+    line-height: var(--bs-btn-line-height);
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    border: var(--bs-btn-border-width) solid rgb(19, 138, 138);
+    border-radius: 0.2rem;
+    background-color: var(--bs-btn-bg);
+    transition: all .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.desbtn:hover{
+    box-shadow: 0 0 25px 2px cyan;
+}
+
+.txtsize{
+    font-size: 0.7rem;
+}
+
+.boldcardtxt{
+    font-weight: bold;
+}
+
+
+.mainPrdTyp{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+}
+
+.topborder{
+    border-top: solid cyan;
+}
+
+.bordcardbd{
+    border: 0.15rem solid cyan;
+    box-shadow: 0 0 15px 1px cyan;
+    animation: boxshad 2s linear infinite;
+
+}
+
+.bordcardbd2{
+    
+    box-shadow: 0 0 15px 1px cyan;
+    animation: boxshad 2s linear infinite;
+    background-color: #000000;
+    color:cyan;
+    border-radius: 0.7rem;
+}
+
+.bordcardbd3{
+
+    box-shadow: 0 0 15px 1px cyan;
+    animation: boxshad 2s linear infinite;
+
+    color:cyan;
+    border-radius: 0.7rem;
+}
+
+@keyframes boxshad {
+    0%{
+        box-shadow: none;
+    }
+    50%{
+        box-shadow: 0 0 15px 1px cyan;
+    }
+    100%{
+        box-shadow: none;
+    }
+}
+
+
+.product{
+        
+    min-height: 100vh !important;
+    background-color: #1b1b1b;
+}
+
+.txtboxwidhigh{
+    
+    height: 15vh;
+    resize: none;
+}
+
+.bordandanim{
+    border: 0.2rem solid cyan;
+    box-shadow: 0 0 20px 1px cyan;
+    animation: animdes 2s linear infinite;
+}
+@keyframes animdes{
+    0%{
+        box-shadow: none;
+    }
+    50%{
+        box-shadow: 0 0 20px 1px cyan;
+    }
+    100%{
+        box-shadow: none;
+    }
+}
+
+
+.deschigh{
+    min-height: 1vh !important;
+    max-height: 2vh !important;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  
+}
+
+
+.deschigh::-webkit-scrollbar {
+  display: none;
+}
+
+.description-container{
+    min-height: 10.5vh; /* Set the minimum height you want for the description */
+    max-height: 10.5vh;
+
+    overflow-y: auto; 
+}
+
+.fsize{
+    font-size: 0.75rem;
+}
+
+
+.logout{
+    min-height: 100vh !important;
+    background-color: #1b1b1b;
+    overflow: auto;
+    color : cyan;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 40px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+    animation: shadonoff 2s linear infinite;
+}
+
+.changelinkdes{
+    color: cyan;
+    text-decoration: none;
+    transition: all 1.5s;
+}
+
+.changelinkdes:hover{
+    color: cyan;
+    text-decoration: none;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 40px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+
+.navbar {
+    position: sticky !important;
+    top: 0px !important;
+    --bs-navbar-padding-x: 0;
+    --bs-navbar-padding-y: 0.5rem;
+    --bs-navbar-color: rgba(var(--bs-emphasis-color-rgb), 0.65);
+    --bs-navbar-hover-color: rgba(var(--bs-emphasis-color-rgb), 0.8);
+    --bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
+    --bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-brand-padding-y: 0.3125rem;
+    --bs-navbar-brand-margin-end: 1rem;
+    --bs-navbar-brand-font-size: 1.25rem;
+    --bs-navbar-brand-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-brand-hover-color: rgba(var(--bs-emphasis-color-rgb), 1);
+    --bs-navbar-nav-link-padding-x: 0.5rem;
+    --bs-navbar-toggler-padding-y: 0.25rem;
+    --bs-navbar-toggler-padding-x: 0.75rem;
+    --bs-navbar-toggler-font-size: 1.25rem;
+    --bs-navbar-toggler-icon-bg: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);
+    --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.15);
+    --bs-navbar-toggler-border-radius: var(--bs-border-radius);
+    --bs-navbar-toggler-focus-width: 0.25rem;
+    --bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 !important; 
+}
+
+
+.cardImg{
+    max-height: 20vh !important;
+    object-fit: fill;
+}
+
+
+
+
+
+
+.objft{
+    width: 100%;
+    height : 100%;
+    background-position: center !important;
+    object-fit: cover !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 0.3rem;
+    height: 3px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-radius: 7rem;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+
+.timerhight{
+    background-color: cyan;
+    min-height: 10vh;
+    overflow: auto;
+
+}
+
+.prdtypebox{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+    overflow: auto;
+}
+
+.prdtyphight{
+    background-color: #1b1b1b;
+    min-height: 60vh;
+    overflow: auto;
+}
+
+.homeptsz{
+    font-size: 1.5rem;
+}
+
+.fntblk{
+    color: #000;
+}
+
+.txtshad2{
+    font-size: 1.3rem;
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF, 0 0 40px #00FFFF, 0 0 50px #00FFFF, 0 0 60px #00FFFF, 0 0 70px #00FFFF;
+}
+
+
+.active>.page-link, .page-link.active {
+    z-index: 3;
+    color: black;
+    background-color: cyan;
+    border-color: var(--bs-pagination-active-border-color);
+}
+
+.evbtn{
+    color: black;
+    text-decoration: none;
+}
+
+.cardrev{
+    
+    background-color: #00000059;
+    color: cyan;
+    border: solid cyan;
+    text-shadow: 0 0 18px cyan, 0 0 18px cyan, 0 0 18px cyan; 
+    
+}
+
+.fntsizerev{
+    font-size: 0.8rem;
+}
+
+.picsiz{
+    max-width: 28vw;
+   
+}
+
+.footdes{
+    background-color: cyan;
+    color : black;
+    display: flex;
+    justify-content: center;
+    min-height: 20vh;
+}
+
+.footcarddes{
+    background-color: cyan;
+    color: black;
+    border : none !important;
+}
+
+.cardfootfont{
+    font-size: 0.7rem;
+}
+
+.viewterms{
+    background-color: #1b1b1b;
+    min-height: 100vh !important;
+}
+
+.fontterm{
+    color : cyan;
+    text-align: justify;
+    text-shadow: 0 0 10px cyan;
+}
+
+.undrln{
+    text-decoration: underline;
+    text-underline-offset: 1rem;
+    text-shadow: 0 0 10px cyan, 0 0 10px cyan ;
+}
+
+.homereview{
+    transform: scale(1);
+    transition: all 1.5s;
+}
+
+.homereview:hover{
+    transform: scale(1.1);
+    z-index: 200;
+}
+
+.carseltext{
+    text-shadow: 0 0 18px cyan, 0 0 18px cyan, 0 0 18px cyan; 
+}
+
+.reviewmain{
+    min-height: 100vh;
+    overflow: auto;
+    background-color: #1b1b1b;
+}
+
+.homerevbox{
+    max-height: 7vh;
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+}
+
+.homerevbox::-webkit-scrollbar {
+  display: none;
+}
+
+.mainfrontprd{
+    background-color: #1b1b1b;
+    min-height: 100vh !important;
+    overflow: auto;
+    
+}
+
+
+
+.boxdes{
+    border: 0.035rem solid cyan;
+    box-shadow: 0 0 52px -12px cyan;
+}
+
+.cartaddfont{
+    color: cyan;
+}
+
+.glowef{
+     
+    animation : txtglow 2s linear infinite;
+}
+@keyframes txtglow{
+    0%{
+        text-shadow: 0 0 18px cyan; 
+    }
+    50%{
+        text-shadow: 0 0 18px cyan, 0 0 18px cyan, 0 0 18px cyan; 
+    }
+    100%{
+        text-shadow: 0 0 18px cyan; 
+    }
+}
+
+.ptransfrm{
+    background-color: #00000059;
+    border-radius: 0.45rem;
+    transform: scale(1);
+    transition: all 2s;
+}
+.ptransfrm:hover{
+    transform : scale(1.1);
+}
+
+.badgerd{
+    border-radius: 50%;
+}
+
+.txtdc{
+    text-decoration: none;
+    color: cyan;
+}
+
+.txtdc:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.cartdes{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+}
+
+.fsz{
+    font-size: 1.5rem;
+}
+.fsz2{
+    font-size: 1rem;
+}
+
+
+.lststl{
+    list-style: none;
+}
+
+.tabledes{
+    color:cyan !important;
+    background-color: transparent !important;
+    
+}
+
+.table{
+    
+        --bs-table-color-type: none !important;
+        --bs-table-bg-type: none !important; 
+        --bs-table-color-state: none !important;
+        --bs-table-bg-state: none !important; 
+        --bs-table-color: none !important; 
+        --bs-table-bg: none !important; 
+        --bs-table-border-color: none !important; 
+        --bs-table-accent-bg: transparent; 
+        /* --bs-table-striped-color: var(--bs-body-color); */
+        /* --bs-table-striped-bg: rgba(0, 0, 0, 0.05); */
+        /* --bs-table-active-color: var(--bs-body-color); */
+        /* --bs-table-active-bg: rgba(0, 0, 0, 0.1); */
+        /* --bs-table-hover-color: var(--bs-body-color); */
+         --bs-table-hover-bg: rgba(0, 0, 0, 0.075); 
+        width: 100%;
+        margin-bottom: 1rem;
+        vertical-align: top;
+        border-color: var(--bs-table-border-color);
+    
+}
+
+.trdes{
+   
+    font-size: 0.7rem;
+}
+
+.ovrflw{
+    overflow-x: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+}
+
+.ovrflw::-webkit-scrollbar {
+  display: none;
+}
+
+
+.fitimg{
+    width: 100%;
+    object-fit: fill;
+    height: 100%;
+    
+}
+
+.gobakhome{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+    overflow: auto;
+}
+
+.bigtc{
+    transform: scale(1);
+    transition: all 0.8s linear;
+}
+
+.bigtc:hover{
+    transform: scale(1.25);
+}
+
+
+.frmshape{
+    transform: scale(1);
+    transition: all 0.7s linear;
+}
+
+.frmshape:hover{
+    transform: scale(1.1);
+}
+
+.confirmedShip{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+    overflow: auto;
+
+}
+
+.specificord{
+    background-color: #1b1b1b;
+    min-height: 100vh;
+    overflow: auto;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
+}
+
+.specificord::-webkit-scrollbar {
+  display: none;
+}
+
+
+
+
+.bgdk{
+  
+    color: #fff
+}
+
+
+.headings{
+    text-decoration: underline;
+    text-underline-offset: 0.5rem;
+}
+
+.smollsize{
+    font-size: 0.7rem;
+}
+
+.smolfnt2{
+    font-size: 0.95rem;
+}
+
+.headfont{
+    font-family: 'Oleo Script', cursive !important;
+
+}
+
+.headfontres{
+    font-family: 'Oleo Script', cursive !important;
+    font-size: 0.9rem;
+
+}
+
+.bdfont{
+    font-family: 'Rancho', cursive !important;
+    font-size: 1.2rem !important;
+}
+
+
+
+.bdfontres{
+    font-family: 'Rancho', cursive !important;
+    font-size: 1rem !important;
+}
+
+.bdfontrestable{
+    font-family: 'Rancho', cursive !important;
+    font-size: 2rem !important;
+}
+
+
+::placeholder {
+    font-family: 'Rancho', cursive !important;
+  }
+  
+input::placeholder{
+    font-family: 'Rancho', cursive !important;
+}  
+
+input{
+    font-family: 'Rancho', cursive !important;
+}
+
+textarea{
+    font-family: 'Rancho', cursive !important;
+}
+select{
+    font-family: 'Rancho', cursive !important;
+}
+
+input[type=file]::placeholder{
+    font-family: 'Rancho', cursive !important;
+}
+
+.tblz{
+    z-index: 400;
+}
+
+
+#timer{
+    transition: all 0.6s ease-in-out;
+}
+
+#prdtyp{
+    transition: all 0.6s ease-in-out;
+}
+
+#prdbrand{
+    transition: all 0.6s ease-in-out;
+}
+
+
+#prddata{
+    transition: all 0.65s linear;
+}
+
+
+
+#prdrev{
+    transition: all 0.65s linear;
+}
+
+#slide{
+    transition: transform 1s ease-in-out !important;
+}
