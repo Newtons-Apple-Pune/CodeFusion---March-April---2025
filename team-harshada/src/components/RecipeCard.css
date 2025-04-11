@@ -1,0 +1,67 @@
+.recipe-img 
+{
+    object-fit: cover;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+.recipe-p 
+{
+    padding:0px 15px;
+    position: absolute;
+    bottom: 0px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: no-wrap;
+    height: 80px;
+    z-index: 3;
+    border-radius: 10px;
+    width: 300px;
+    letter-spacing: 1px;
+}
+.recipe-card-container 
+{
+    display: flex;
+    flex-direction: column;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    border-radius: 10px;
+    transition: all 100ms ease-in-out;
+    cursor: pointer;
+    margin: 20px 0;
+    color:white;
+    animation: fade-in 300ms linear;
+}
+@keyframes fade-in {
+    0% {
+        top: 40px;
+        opacity: 0;
+    }
+    100% {
+        top:0;
+        opacity: 1;
+    }
+}
+.recipe-card-container:hover 
+{
+    transform: scale(0.97);
+}
+.recipe-gradient
+{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    border-radius: 10px;
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.9));
+}
+
+.splide__arrow.splide__arrow--prev {
+    left: 1230px;
+    top:-25px
+}
+
+.splide__arrow.splide__arrow--next {
+    right: 10px; 
+    top:-25px
+}

@@ -1,0 +1,30 @@
+.category-container 
+{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.category-container a 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #202020;
+    color:white;
+    border-radius: 50%;
+    padding:10px;
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+    transition: all 100ms ease-in-out;
+    text-decoration: none;
+}
+.category-container a:hover 
+{
+    transform: scale(0.95);
+}
+.active 
+{
+    background-color:#F77121 !important;
+} 
